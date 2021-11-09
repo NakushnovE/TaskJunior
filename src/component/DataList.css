@@ -1,0 +1,27 @@
+.table {
+    display: flex;
+    margin: 10px;
+
+}
+.hatTable {
+    width: 800px;
+    margin-left: 10px;
+    border: 3px solid #4a4a4d;
+    border-spacing: 20px 10px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #2b2b2d;
+    height: 20px;
+    position: relative;
+
+}
+th img{
+    position: absolute;
+    right: 2px;
+    margin-top: 3px;
+
+}
+th:first-child {
+    width: 50px;
+}

@@ -1,0 +1,13 @@
+.navbar {
+    width: auto;
+    height: 60px;
+    background-color: #50703e;
+    border-bottom: 1px solid #2b2b2d;
+    display: flex;
+}
+.navbar-btn button {
+    width: 100px;
+    height: 30px;
+    background-color: #b7b7b7;
+    margin: 10px;
+}
